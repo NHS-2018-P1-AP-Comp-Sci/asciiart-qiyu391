@@ -12,6 +12,20 @@
  * 
  * @author Mr. Rasmussen 
  *
- */
+ */ 
 
 // YOUR CODE GOES HERE :)
+public class ASCIIArt {
+	public static void main(String[] args) {
+		System.out.println(" _____________________");
+		System.out.println("|system.out.println();|");
+		System.out.println("|_____________________|");
+		System.out.println("  ||");
+		System.out.println("   ^----^");
+		System.out.println(" ~( * _ * )~");
+		System.out.println("     \\     ------\\_ ");
+		System.out.println("      \\__________/--\\\\");
+		System.out.println("        ||     ||    \\\\_");
+		System.out.println("A cat is learning java with no capitalized");
+	}
+}
